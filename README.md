@@ -25,7 +25,7 @@ This is a sample Spring Boot project that demonstrates the integration of Kafka 
 
 - Java 17 or later
 - Apache Kafka (for running locally)
-- Maven (or use the included `./mvnw` script)
+- Gradle
 
 ## Getting Started
 
